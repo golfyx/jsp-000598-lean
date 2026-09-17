@@ -1,0 +1,12 @@
+name = "jsp000598"
+defaultTargets = ["JSP000598", "Audit"]
+
+[[lean_lib]]
+name = "JSP000598"
+srcDir = "."
+globs = ["JSP000598"]
+
+[[lean_lib]]
+name = "Audit"
+srcDir = "."
+globs = ["Audit"]
